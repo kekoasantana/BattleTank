@@ -1,9 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# Starter Content
-Content/StarterContent/*
-
 # Compiled Object files
 *.slo
 *.lo
@@ -43,6 +40,7 @@ Content/StarterContent/*
 *.sdf
 *.VC.db
 *.VC.opendb
+Content/StarterContent/*
 
 # Precompiled Assets
 SourceArt/**/*.png
